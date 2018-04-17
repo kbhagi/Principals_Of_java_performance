@@ -1,2 +1,2 @@
-# Principals_Of_java_performance
-Max the performance of Java
+# Principals of Bhargava K
+Max out the performance barrier of Java
